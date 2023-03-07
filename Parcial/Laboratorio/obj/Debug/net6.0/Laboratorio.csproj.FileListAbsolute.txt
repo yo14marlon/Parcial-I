@@ -1,0 +1,15 @@
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\bin\Debug\net6.0\Laboratorio.exe
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\bin\Debug\net6.0\Laboratorio.deps.json
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\bin\Debug\net6.0\Laboratorio.runtimeconfig.json
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\bin\Debug\net6.0\Laboratorio.dll
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\bin\Debug\net6.0\Laboratorio.pdb
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\obj\Debug\net6.0\Laboratorio.csproj.AssemblyReference.cache
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\obj\Debug\net6.0\Laboratorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\obj\Debug\net6.0\Laboratorio.AssemblyInfoInputs.cache
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\obj\Debug\net6.0\Laboratorio.AssemblyInfo.cs
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\obj\Debug\net6.0\Laboratorio.csproj.CoreCompileInputs.cache
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\obj\Debug\net6.0\Laboratorio.dll
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\obj\Debug\net6.0\refint\Laboratorio.dll
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\obj\Debug\net6.0\Laboratorio.pdb
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\obj\Debug\net6.0\Laboratorio.genruntimeconfig.cache
+C:\Users\marlo\OneDrive\Escritorio\Programacion\Laboratorio\Laboratorio\obj\Debug\net6.0\ref\Laboratorio.dll
